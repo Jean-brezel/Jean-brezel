@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Jean-brezel
+- 👀 I’m interested in data analytics and its pratical applications for government planning and policy
+- 🌱 I’m currently learning Excel, SQL and Tableau
+- 💞️ I’m looking to collaborate on ...
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I'm also fluent in German!
